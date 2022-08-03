@@ -14,17 +14,6 @@ namespace DotnetProject.Controllers
             return View();
         }
 
-        public ViewResult login()
-        {
-            return View();
-        }
-
-
-        public ViewResult Signin()
-        {
-            return View();
-        }
-
         public ViewResult Opinions()
         {
             return View();

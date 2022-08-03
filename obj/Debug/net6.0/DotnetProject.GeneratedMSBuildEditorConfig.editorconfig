@@ -15,12 +15,36 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\SchoolManagement\DotnetProject\DotnetProject
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/SchoolManagement/DotnetProject/DotnetProject/Views/About/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+[E:/SchoolManagement/DotnetProject/DotnetProject/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SchoolManagement/DotnetProject/DotnetProject/Views/About/login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcbG9naW4uY3NodG1s
+[E:/SchoolManagement/DotnetProject/DotnetProject/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SchoolManagement/DotnetProject/DotnetProject/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SchoolManagement/DotnetProject/DotnetProject/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SchoolManagement/DotnetProject/DotnetProject/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SchoolManagement/DotnetProject/DotnetProject/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SchoolManagement/DotnetProject/DotnetProject/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SchoolManagement/DotnetProject/DotnetProject/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/SchoolManagement/DotnetProject/DotnetProject/Views/About/NextExam.cshtml]
@@ -33,10 +57,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [E:/SchoolManagement/DotnetProject/DotnetProject/Views/About/services.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcc2VydmljZXMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/SchoolManagement/DotnetProject/DotnetProject/Views/About/Signin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcU2lnbmluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/SchoolManagement/DotnetProject/DotnetProject/Views/About/StudentResult.cshtml]
@@ -53,6 +73,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [E:/SchoolManagement/DotnetProject/DotnetProject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SchoolManagement/DotnetProject/DotnetProject/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/SchoolManagement/DotnetProject/DotnetProject/Views/Shared/_ValidationScriptsPartial.cshtml]
